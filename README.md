@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Networking Technology
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Lewakas
+- ⚡ Fun fact: I had to copy paste this template to get the github student pack
